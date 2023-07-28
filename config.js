@@ -44,8 +44,9 @@ global.sessionId = process.env.SESSION_ID || "ok";
 global.prefa = process.env.PREFIX || "-";
 global.tenorApiKey =
   process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
-global.packname = process.env.PACKNAME || `Atlas MD`;
-global.author = process.env.AUTHOR || "by: Team Atlas";
+global.packname = process.env.PACKNAME || `𝘾𝞗𝞛𝞛𝞓𝞜𝘿𝞢𝞒`;
+global.author = process.env.AUTHOR || "ｓｈａｗａｒｍａ
+";
 global.port = process.env.PORT || "8000";
 
 module.exports = {
